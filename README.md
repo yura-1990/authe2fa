@@ -21,6 +21,7 @@
 4. Run `php artisan key:generate`
 5. Run `php artisan migrate`
 6. Run `php artisan serve`
+7. Run `npm install && npm run dev`
 
 ### Use the app in your mobile phone to authenticate via one of the two apps below 
 1. [Google Authenticator for android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=ru&gl=US)
